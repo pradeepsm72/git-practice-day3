@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict line from master
+=======
+conflict line from feature-2
+>>>>>>> feature-2
